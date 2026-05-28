@@ -1,0 +1,101 @@
+*{
+    margin: 5px;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    border-width: 2px;
+    border: color(black red green blue);
+}
+.logo{
+    background-color: yellow;
+    display: inline;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 6px 4px;
+    font-style: italic;
+    border-radius: 10%;
+}
+.travel{
+    display: inline-block;
+    background-color: #e2e2e2;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 6px 4px;
+    font-style: italic;
+    border-radius: 10%;
+    
+}
+.location{
+    display: inline-block;
+    background-color: #e2e2e2;
+    margin-left: 800px;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 6px 4px;
+    font-style: italic;
+    border-radius: 10%;
+
+
+}
+.middle input{
+    width: 60%;
+    border-radius: 8px;
+    outline: none;
+    border-color: dodgerblue;opacity: .5;
+}
+.bottom{
+    margin-top: 20px;
+    border: 1px solid black; opacity: .9;
+    padding: 5pxpx;
+    border-radius: 5px;
+}
+
+.smallbox{
+    display: inline-block;
+    height: 40px;
+    width: 35px;
+    background-color: dodgerblue;
+    margin: 18px;
+    color: white;
+    text-align: center;
+    line-height: 80px;
+    font-weight: bold;
+    border-radius: 8px
+}
+.hi{
+    display: inline-block;
+}
+#wow img{
+    
+    width: 250px;
+    height: 160px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+.end{
+    width: auto;
+    height: 200px;
+    background-color: yellowgreen;
+}
+.inner img{
+    margin-left: 20px;
+    padding: 5px;
+    width: 180px;
+    height: 180px;
+}
+.footer{
+
+    width: auto;
+    height: 200px;
+    background-color: black;
+}
+.description{
+    display: inline-block;
+}
+.about{
+    display: inline-block;
+}
+.help{
+    display: inline-block;
+}
